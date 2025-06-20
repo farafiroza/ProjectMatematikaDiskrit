@@ -5,6 +5,7 @@ Nama: Fara Firoza
 NIM: 2407540
 Kelas: PSTI 2B
 Dosen Pengampu : Dr. Suprih Widodo, S.Si.,M.T
+Mata Kuliah : Matematika Diskrit
 
 ## Isi pada program
 Program ini dibuat untuk menghitung jumlah kemungkinan pemilihan kelompok dari sejumlah mahasiswa menggunakan konsep kombinasi dalam materi kombinatorial matematika diskrit. Implementasi ini dibuat sebagai bagian dari Tugas Besar Matematika Diskrit.
