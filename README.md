@@ -1,5 +1,5 @@
 ## Project Akhir Matematika Diskrit
-implementasi materi kombinatorial khususnya kombinasi  C(n,r) dalam bahasa C untuk menghitung kemungkinan pemilihan kelompok menggunakan bahasa c pada Visual studio code
+Implementasi materi kombinatorial khususnya kombinasi  C(n,r) dalam bahasa C untuk menghitung kemungkinan pemilihan kelompok menggunakan bahasa c pada Visual studio code
 
 Nama: Fara Firoza
 NIM: 2407540
