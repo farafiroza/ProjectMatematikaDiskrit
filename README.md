@@ -19,7 +19,7 @@ Menghitung banyaknya cara memilih anggota(r) dari total mahasiswa(n) tanpa mempe
 - loop iteratif untuk perhitungan bertahap
 - validasi input (r tidak boleh lebih besar dari n)
 
-## 📄 Struktur Program
+## Struktur Program
 1. Fungsi hitungKombinasi(n, r) : menghitung nilai kombinasi menggunakan loop:
    long long hitungKombinasi(int n, int r) {
     if (r > n - r) r = n - r;
