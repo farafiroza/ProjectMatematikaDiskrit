@@ -34,4 +34,5 @@ Menghitung banyaknya cara memilih anggota(r) dari total mahasiswa(n) tanpa mempe
    int main() {
    int jumlahMahasiswa, jumlahPerKelompok;
 
-## Video Demo : https://youtu.be/RCaq9ipwbUs?si=0gEcop94mmmcCp4w
+## Video Demo : 
+https://youtu.be/RCaq9ipwbUs?si=0gEcop94mmmcCp4w
